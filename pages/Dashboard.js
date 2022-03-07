@@ -6,7 +6,7 @@ import Sidebar from "../components/Sidebar";
 import { ThirdwebSDK } from "@3rdweb/sdk";
 import { ethers } from "ethers";
 
-let privateKey = process.env.local.NEXT_PUBLIC_METAMASK_KEY;
+let privateKey = process.env.NEXT_PUBLIC_METAMASK_KEY;
 
 const sdk = new ThirdwebSDK(
   new ethers.Wallet(
