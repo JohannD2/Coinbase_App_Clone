@@ -1,4 +1,4 @@
-Check out the app on vercel: chttps://coinbase-app-clone-m4b6s14q4-johannd2.vercel.app/
+# Check out the app on Vercel: https://coinbase-app-clone-m4b6s14q4-johannd2.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
